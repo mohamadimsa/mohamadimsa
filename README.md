@@ -1,6 +1,6 @@
 ## Nice to see you here ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Judikaël Bellance, currently pursuing my bachelor's degree majoring in computer science from [Epitech](https://epitech.eu/). I am a tech enthusiast. Find out more about me & feel free to connect with me here:
+I am Mohamadi msa , currently pursuing my bachelor's degree majoring in computer science from [Epitech](https://epitech.eu/). I am a tech enthusiast. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohamadi-msa-07a397164/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamadi-msa-07a397164/)](https://www.linkedin.com/in/mohamadi-msa-07a397164/)
 [![Gmail Badge](https://img.shields.io/badge/-mohamadi.alternace@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamadi.alternace@gmail.com)](mailto:mohamadi.alternace@gmail.com)
@@ -17,15 +17,10 @@ I am Judikaël Bellance, currently pursuing my bachelor's degree majoring in com
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mohamadimsa)
 
