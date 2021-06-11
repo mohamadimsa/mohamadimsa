@@ -3,7 +3,7 @@
 I am Mohamadi msa , currently pursuing my bachelor's degree majoring in computer science from [Epitech](https://epitech.eu/). I am a tech enthusiast. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohamadi-msa-07a397164/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamadi-msa-07a397164/)](https://www.linkedin.com/in/mohamadi-msa-07a397164/)
-[![Gmail Badge](https://img.shields.io/badge/-mohamadi.alternace@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamadi.alternace@gmail.com)](mailto:mohamadi.alternace@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mohamadi.alternance@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamadi.alternace@gmail.com)](mailto:mohamadi.alternace@gmail.com)
 
 ## ⚡ Technologies
 
