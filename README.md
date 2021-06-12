@@ -1,6 +1,10 @@
 ## Nice to see you here ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Doté d’une grande curiosité et d'un intérêt prononcé pour les nouvelles technologies, c’est avec enthousiasme que je découvre et apprends de nouvelles choses. Durant mes parcours à Epitech et OpenClassrooms j'ai acquis de très bonnes bases, dans les principaux langages de programmation web
+ Je suis à la recherche
+d'une entreprise au sein de laquelle je pourrais effectuer mon année
+d'apprentissage qui me permettrais d’allier enseignement théorique et
+formation pratique. D’une durée de 14 mois, celle-ci débutera le 24 septembre
+2021.
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohamadi-msa-07a397164/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamadi-msa-07a397164/)](https://www.linkedin.com/in/mohamadi-msa-07a397164/)
 [![Gmail Badge](https://img.shields.io/badge/-mohamadi.alternance@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamadi.alternance@gmail.com)](mailto:mohamadi.alternace@gmail.com)
