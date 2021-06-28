@@ -7,7 +7,7 @@ formation pratique. D’une durée de 14 mois, celle-ci débutera le 24 septembr
 2021.
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohamadi-msa-07a397164/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamadi-msa-07a397164/)](https://www.linkedin.com/in/mohamadi-msa-07a397164/)
-[![Gmail Badge](https://img.shields.io/badge/-mohamadi.alternance@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamadi.alternance@gmail.com)](mailto:mohamadi.alternace@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mohamadi.alternance@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamadi.alternance@gmail.com)](mailto:mohamadi.alternance@gmail.com)
 
 ## ⚡ Technologies
 
