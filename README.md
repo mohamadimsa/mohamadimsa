@@ -23,5 +23,4 @@ Actuellement en recherche d'une entreprise où je pourrais m’épanouir et fair
 
 <div align="">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mohamadiMsa&show_icons=true"  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=13&layout=compact"  />
 </div>
