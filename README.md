@@ -7,23 +7,13 @@
 
 ## 👨🏻‍💻 A propos de moi:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ **[mon portolio](https://mohamadimsa.fr)**
-
-- 🔭 ``.
-
-- 🌱 ``
-
-- 👯  ``
-
-- 🤔  ``
 
 - 💬
 
 - 👨‍💻 
 
-- ⚡ 
 
 ## 🛠️ Les Technologies et outils que j'utilise:
 
