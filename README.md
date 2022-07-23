@@ -23,5 +23,5 @@
 
 <div align="">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mohamadiMsa&show_icons=true"  />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadiMsa" alt="mohamadi" />
+  
 </div>
