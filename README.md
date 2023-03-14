@@ -10,7 +10,6 @@
 Doté d’une grande curiosité et d'un intérêt prononcé pour les IT, c’est avec enthousiasme que je découvre et apprends de nouveaux langages et technologies. Durant ma formation à Epitech 
 j'ai acquis de très bonnes bases, dans les principaux langages de programmation web ainsi que logiciel et mobile que j'ai solidifier lors de ma formation en alternance chez AWAKEN.
 
-Actuellement en recherche d'une entreprise où je pourrais m’épanouir et faire carrière
 
 
 
